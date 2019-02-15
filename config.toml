@@ -1,5 +1,20 @@
-baseURL = "http:/infoaed.ee/"
+baseURL = "http://gafgaf.infoaed.ee/"
 languageCode = "et-ee"
-title = "Kasside ja koerte sõda tuleb lõpetada!"
+defaultContentLanguage = "et"
+title = "Sinu piraatkandidaat"
 theme = "massively"
 
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+[params.posts]
+     foldername = "posts"
+     pagesize = "6"
+     featuredpost = "false"
+
+
+[languages]
+[languages.et]
+  languageName = "Eesti"
