@@ -17,4 +17,6 @@ theme = "massively"
 
 [languages]
 [languages.et]
-  languageName = "Eesti"
+  languageName = "Eesti keeles"
+[languages.ru]
+  languageName = "По-русски"
