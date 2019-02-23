@@ -13,6 +13,8 @@ Roheaktivistid vaatavad maailmale kui ökosüsteemile. Igal olendil ja liigil on
 
 Ida-Viru põlevkivitööstuse tehnoloogia pärineb eelmisest sajandist ning vajab innovatsiooni ja kiiret restarti juba lähimatel aastatel. Energia tootmine põlevkivist pole enam selle maavara majanduslikult konkurentsivõimeline kasutus, me peame õppima kasutama uusi tehnoloogiaid ja nendesse investeerima. Kuigi valitsuse poolt kostavad hääled, mis kutsuvad üles energiarevolutsiooniga viivitama, siiski arvan ma, et üleminek taastuvenergiale tuleks teha ära kümne aasta jooksul.
 
+## Varem on parem
+
 Selle suureks plussiks on see, et siis on võimalik energiauuendusega seotud oskusi ka edasi müüa, sest taastuvenergia tehnoloogiatega viimasena liitumine tähendab pigem teenuste ja teadmuse sisseostmist teistelt, kellel on kogemusi. Iseenesest loob kiire üleminek taastuvenergiale uusi töökohti ja elavdab ilmselt üldse kõike Ida-Virumaal, sest uute tehnoloogiate juurutamiseks on paratamatult vaja ka uusi spetsialiste. Kõik töökohad, mis tekivad taastuvenergiale üleminekuga ei pruugi olla ka Ida-Virumaal, aga see on tegelikult osa sellest lahendusest, mida taastuvenergiale üleminek Ida-Virumaa jaoks tervikuna pakub, aidates vähendada piirkonna isoleeritust ülejäänud Eestist.
 
 > Minna kümne aastaga üle taastuvenergiale on vähim, mida saame teha oma laste heaks, ja enim, mida saame lubada iganenud tehnoloogiat kasutatvatele tööstusettevõtetele!
@@ -21,19 +23,27 @@ Lähtume üleminekul üldjoontes Taastuvenergia Koja kavast ja eesmärgiks on ta
 
 Energiataristu uuendamine taastuvenergiale üleminekuks on üks kõige olulisemaid asju, millega Ida-Viru ülejäänud Eestit mõjutab. Võtmeroll on siin kohalikel ettevõtjatel ja inseneridel. Ent innovaatilised energiavõrgu lahendused pole tänapäeval mõeldavad seda toetava Internetita. Seetõttu joonib meie programmi alla peatükk Interneti ökosüsteemist ning võrgutaristust, mille puhul on sarnaselt looduskeskkonnaga kriitiline tagada selle sõltumatus valitsuste ja suurettevõtete kuritarvitustest.
 
-Suur osa meie igapäevasest tegevusest on tänapäeval seotud Internetiga — see on meie digitaalne elukeskkond, mis vajab kaitset samamoodi nagu loodus meie ümber. Ent mitte kuskilt mujalt ei paista selgemini kui Ida-Virumaalt, et Eesti e-riik on loodud eelkõige riigiaparaadi töö lihtsustamiseks ja mitte niivõrd kodanike võimestamiseks. Viimasel ajal on Internet muutumas ka infosõja tallermaaks, kus valitsus on tõmmanud rindejoone venekeelse inforuumi ja neile meelepäraste kontode, saitide ja arvamusavalduste vahele.
-
 Kui me räägime hajutatud energiatootmisest, tarkadest energiavõrkudes ja energia salvestusseadmetest, siis me räägime suuresti digitehnoloogiast, mida juhitakse infosüsteemidega. Sellised süsteemid on hajutatud nagu Internet ja nendega peavad saama liituda kõik energiatootjad ja -kasutajad.
+
+Roheliste programmis on terve rodu maksu- jm soodustusi, et premeerida neid, kes energiapöördega otsustavad kaasa minna. Ülemineku kiirendamiseks muudetakse investeeringud rohelisse energiasse maksuvabaks mitte ainult ettevõtetele, vaid antakse üksikisikutele isegi suuremad võimalused olla osa sellest revolutsioonist. Meie plaanis on lisaks investeerimistoetused kodusele energiatootmisele ja selle lihtsustatud sidumine energiaühistuga, mis võimaldab suunata üleliigse energia turule müügiks. Selle eemärk on tagada Eestis energiasõltumatus, siduda end lahti suurtootmise võetavast vaheltkasust ja keskkonnakahjulikest ärihuvidest ning võtta energiavõrgud iseenda kontrolli alla.
+
+## Energeetika on seotud Internetiga
 
 Kui masstootmise ja kaubavahetuse globaliseerumise ajastul hakati nimetama naftat uueks "mustaks kullaks", siis infoühiskonna põhivaluuta on andmed — andmete abil teenitakse raha ja valitsetakse. Ent samamoodi nagu nafta puhul on läbivaks jooneks olnud võitlus maardlate ja transporditaristu kontrolli saavutamise pärast, käib praegu võitlus andmete ja infotaristu kontrolli pärast.
 
+{{< youtube TsQAJ6MLuZ4 >}}
+
 > Seisame koostöös piraadiliikumisega välja käidud digiõiguste paketiga selle eest, et Internet kui infotaristu ning ökosüsteem jääks kõigile avatuks ning seda ei allutataks korporatiiv- ega militaarkontrollile ei Eesti kohalikest ega välishuvidest lähtuvalt.
+
+Suur osa meie igapäevasest tegevusest on tänapäeval seotud Internetiga — see on meie digitaalne elukeskkond, mis vajab kaitset samamoodi nagu loodus meie ümber. Ent mitte kuskilt mujalt ei paista selgemini kui Ida-Virumaalt, et Eesti e-riik on loodud eelkõige riigiaparaadi töö lihtsustamiseks ja mitte niivõrd kodanike võimestamiseks. Viimasel ajal on Internet muutumas ka infosõja tallermaaks, kus valitsus on tõmmanud rindejoone venekeelse inforuumi ja neile meelepäraste kontode, saitide ja arvamusavalduste vahele.
 
 Meie nägemuses ei mitte ei loobu Ida-Virumaa mitte kliimasoojenemise tõttu majanduslikult järjest ebaotstarbekamaks muutuvast põlevkivienergiast ja jää seejärel oma probleemidega üksi. Vastupidi — meie plaan on, et Ida-Viru tööstusettevõtlus teeb kaks tarmukat hüpet korraga:
 
-* Õppides kunagise "pruunile kulla" asemel keskkonnasäästlike alternatiivide leidmisest ning uue põlvkonna hajutatud energiatootmisest tagab üleminek taastuvenergiale energiasõltumatuse, mida Eesti nii väga igatseb.
+* Õppides kunagise "pruuni kulla" asemel keskkonnasäästlike alternatiivide leidmisest ning uue põlvkonna hajutatud energiatootmisest tagab üleminek taastuvenergiale energiasõltumatuse, mida Eesti nii väga igatseb.
 
 * Piloteerib Eesti ja muu maailma jaoks hajutatud tarkade energiavõrkude tehnoloogiaid, mille võtmesõnaks on avatud andmetel põhinev elektritootmise ja -levi reguleerimine ning jagatud vastutus energiataristu eest.
+
+## Üleminek taastuvenergiale oma tingimustel
 
 Ida-Virumaal on inimesed, kes teavad kõike energiatootmisest. Põlevkivi eemaldamisel jäävat tühimikku ei saa täita tühjade lubadustega. Ida-Virumaa on valmis tegema kaks hüpet korraga, kuid selleks on vaja avatud info- ja energiataristut.
 

@@ -1,13 +1,13 @@
 +++
 title = 'Miks lasen end Riigikokku saades kiibistada?'
 slug = 'kiibi-mind'
-image = 'images/kaslane.png'
+image = 'images/kaslane4.jpg'
 date = "2019-02-18T00:00:00"
-description = 'Istun ma nüüd siin piirilinn Narvas tundlike isendiandmete hunniku nagu viitsütikuga pommi otsas ja mõtlen, mis edasi teha. Panin nimelt nädalapäevad tagasi tiksuma skripti, mis on mulle praeguseks kogunud hulganisti nii poliitloomade ja teiste avaliku elu tegelaste kui tavaliste loomapidajate isikuandmeid. Miks peaks keegi midagi sellist üldse tegema?'
+description = 'У-у-у-у-у-у-гу-гугу-уу! Istun ma nüüd siin piirilinn Narvas tundlike isendiandmete hunniku nagu viitsütikuga pommi otsas ja mõtlen, mida edasi teha. Panin nimelt nädalapäevad tagasi tiksuma skripti, mis on mulle praeguseks kogunud hulganisti nii poliitloomade ja teiste avaliku elu tegelaste kui ja tavaliste loomapidajate illegaalseid isikuandmeid. Miks peaks keegi midagi sellist üldse tegema?'
 disableComments = true
 +++
 
-__Järgnevas saad teada, miks luban end Riigikokku saades kiibistada. Mul on seda küll raske uskuda, aga kui see on sulle tõesti oluline, siis aita mul teha teoks esimene samm, et Ida-Virumaal algaks avatud info- ja energiataristu revolutsioon. Olen korraldanud avaandmete päeva kaks korda Tartus ja ühe korra Tallinnas. Nüüd [võiks ju olla järjekord Narva käes](https://github.com/okestonia/esindus/issues/58)? Kui tunned mõnda andmeentusiasti, kes arvab samuti, et [andmed on Ida-Virumaa uus põlevkivi](https://gafgaf.infoaed.ee/wiki/Andmed_on_uus_p%C3%B5levkivi), siis suuna ta minu poole. Või tahaksid äkki ise [2. märtsil Ida-Virumaale andmete evangeeliumi jutlustama tulla](https://opendataday.org/)? Aga alustame algusest...__
+__Toomas Hendrik Ilves on ajalukku läinud digiteemade presidendina, kes küll leidis, et privaatsus on ülehinnatud, aga ikkagi teipis kinni oma läpaka veebikaamera. Tema unelm ID-kaardist kui Interneti juhiloast pole õnneks teostunud, kuid tema küünilised õpetussõnad, kuidas ei tule karta mitte Suurt Venda vaid Väikest Õde, on ilmselt pidurdanud Eesti noore infoühiskonna eneseteadvuse arengut mitmete aastate jagu. Järgnev blogipost mitte ainult ei pane Eesti arenguseisu digiõiguste konteksti, vaid väljendab digitaalse hõimuühiskonna liikmena elamise igapäevast mannetust.__
 
 Lemmikloomaregister pole mõteldud otseselt avaliku andmekoguna, vaid seda peaks omavalitsuste või varjupaikade töötajad kasutatama tänavale eksinud lemmikute tuvastamiseks kiibinumbri järgi. Teatud vaatenurgast on päris hea mõte luua register, kust saab looma leidmisel ja kiibilugeja olemasolul loomaomaniku kontaktandmed tuvastada kestahes ning pole vaja pöörduda mõne ametiasutuse poole. Igatahes on selline võimalus arendaja poolt [sellesse infosüsteemi](https://www.llr.ee/) jäetud. Kuid sellel on ka oma varjuküljed.
 
@@ -21,20 +21,20 @@ Olete veel minuga? Vaatame järgi, missuguste Riigikogu valimiste kandidaatide l
 
 Need Riigikogu kandidaate pinnivatele ajakirjanikele ja kodanikuaktivistidest valimisküsitluste koostajatele nii vajalikud andmed on nüüd kõigile soovijatele kasutamiseks leitavad [siit](https://github.com/infoaed/rk2019-data) — ning pannes kokku need gerilja-avaandmed ja kogutud illegaalsed isendiandmed võime nüüd meiegi asuda oma uudishimu rahuldama.
 
-![Valik meie kandidaatide lemmikuid](/images/rk2019-lemmikud3.png "Valik Riigikogu valimiste 2019 kandidaatide lemmikuid")
+![Valik meie kandidaatide lemmikuid](/images/rk2019-lemmikud.png "Valik Riigikogu valimiste 2019 kandidaatide lemmikuid")
 
 See tabel pole muidugi täielik ja nimi pole andmebaasi mõttes alati kõige paremini töötav indikaator, aga kuna registrist saab ka loomapidaja telefoninumbri, siis üle vaadates selgub, et enamik numbreid kattub nende kandidaatide andmetega, kes on oma kandidaadiankeedis telefoninumbri ära toonud. Vabandust, kui mõni kandidaat on siiski endale selles tabelis uue virtuaalse lemmiku saanud!
 
 Siin tabelis pole andmeid väga palju, aga kuna valik on juhuslik, siis võib siit vähemalt püüda sõnastada mõningaid huvitavaid hüpoteese:
 
-* Kõige usinamad lemmikute kiipijad on erakonnast Eestimaa Rohelised;
-* Valdav enamik ehk 78 protsenti lemmikute registreerijatest on naised;
-* Riigikogu kandidaadid kalduvad olema pigem koera- kui kassiinimesed, vähemalt peavad nad olulisemaks kiipida koeri;
+* Kõige usinamad lemmikute kiipijad on Keskerakond ja Eestimaa Rohelised;
+* Valdav enamik ehk 72 protsenti lemmikute registreerijatest on naised;
+* Riigikogu kandidaadid kalduvad olema pigem koera- kui kassiinimesed, vähemalt peavad nad olulisemaks kiipida koeri (see on ka mõnes omavalitsuses, nt Tartus ainsana kohustuslik);
 * Kõige populaarsem koeranimi Riigikokku pürgijate seas on Caesar ja kõige populaarsem kassinimi on Kit(i/y).
 
 Loomulikult saaksin teha ulatuslikumaid järeldusi loomade kiibistamise ja sellega seonduva kohta ülejäänud lemmikloomaregistrist kaevandatud andmetest, aga iseäranis siit tabelist paistab, et osade loomaomanike kontakttelefonid võivad olla aegunud — Ott, Ülle ja Jelena, palun, vaadake igaks juhuks oma kontaktid registris üle ja uuendage need, sest vananenud telefoninumbrid ei aita omanikuga looma leidmise korral ühendust võtta!
 
-Minu valimisse sattunud loomaomanikest nimekaim on ilmselt Mailis Reps, kelle lemmikut kuugeldades selgus aga, et ajakirjanduse andmetel on loom õnnetuses hukkunud ning [minister eirab ajakirjanike pöördumisi asjaolude väljaselgitamiseks]. Loomulikult tekitas see mus kohe huvi, kas ministril on teisigi loomi registreeritud, kuid ainukese asjana tuli välja, et on üks [Welsh Corgi Pembroke](https://et.wikipedia.org/wiki/Welsh_Corgi_Pembroke), kelle nimena on toodud on [Reps Mailis](https://www.llr.ee/Looma-otsing?margistus=972270000291380) — loodetavasti vähemalt omanik teab miks!
+Minu valimisse sattunud loomaomanikest nimekaim on ilmselt Mailis Reps, kelle lemmikut kuugeldades selgus aga, et ajakirjanduse andmetel on loom õnnetuses hukkunud ning [minister eirab ajakirjanike pöördumisi asjaolude väljaselgitamiseks](https://lemmik.postimees.ee/6143027/nommekad-mures-miks-mailis-repsi-koer-pidevalt-vabakaigul-on). Loomulikult tekitas see mus kohe huvi, kas ministril on teisigi loomi registreeritud, kuid ainukese asjana tuli välja, et on üks [Welsh Corgi Pembroke](https://et.wikipedia.org/wiki/Welsh_Corgi_Pembroke), kelle nimena on toodud on [Reps Mailis](https://www.llr.ee/Looma-otsing?margistus=972270000291380) — loodetavasti vähemalt omanik teab miks!
 
 Aga see toob meid otse selle postituse ajendi ja ühtlasi ka tuuma juurde.
 
@@ -48,11 +48,11 @@ Seetõttu vastasin seekord [veidi täpsemalt](https://kompass.loomus.ee/search?n
 
 Ent kui kiipimine pole kuidagi füüsiliselt ohtlik, miks siis peaks kahtlema lemmikute kiipimises — isegi kui on nii, et see otseselt päästab ainult murdosa loomadest igavuspensionist varjupaigas või sattumisest prügimäe loomsete jäätmete sektsiooni? Jah, võimalik, et ei peakski kahtlema, kuid minu arvates peaks siiski tegema andmete põhjal kindlaks, kas kiipimine peaks olema üldkohustuslik, missugused peaks olema sanktsioonid ja milliseid piirkondlikke või valdkondlikke erandeid lubada — näiteks pimedate juhtkoeri ei kiibita. Ülalosutatud registriandmed saaks olla anonümiseeritult koos loomade elutsükli andmetega avaldatud, et loomakaitsjad võiks teha andmepõhise poliitikaettepaneku. See hoiaks ära hulga emotsionaalseid vaidlusi, mida lemmikute halduse küsimused kindlasti tekitavad.
 
-Mind ajendas aga valimistsirkusse sukelduma solidaarsus koertega veidi laiemas tähenduses. Kui arutasin roheliste esimehe Züleyxa Izmailova ettepanekut valimistel kandideerida ühe valdkonda hästi tundva feministliku kunstikriitikuga, siis selgus kiiresti, et kuigi koera kuvand sobib perfektselt minu profiili ning [programmiga](https://gafgaf.infoaed.ee/wiki/), siis problemaatiliseks teeb selle just kiipimise vastuolulisus. Tema soovitas mul kiipijate peale lihtsalt uriseda, aga ma valisin hea koerana siiski veidi tsivliseerituma taktika.
+Mind ajendas aga valimistsirkusse sukelduma solidaarsus koertega veidi laiemas tähenduses. Kui arutasin roheliste esimehe Züleyxa Izmailova ettepanekut valimistel kandideerida ühe valdkonda hästi tundva feministliku kunstikriitikuga, siis selgus kiiresti, et kuigi koera kuvand sobib perfektselt minu profiili ning [programmiga](https://gafgaf.infoaed.ee/wiki/), siis problemaatiliseks teeb selle just kiipimise vastuolulisus. Tema soovitas mul kiipijate peale lihtsalt uriseda, aga ma valisin hea koerana siiski veidi tsiviliseerituma taktika.
 
 ## ... ja kiibi oma vaenlane!
 
-{{< figure src="/images/kaslane-400.png" class="floatright" >}}
+{{< figure src="/images/patterns.jpg" class="floatright" >}}
 
 Toomas Hendrik Ilves pidas 2015. aastal [esoteerilise ettekande kiipimise võludest](http://www.delfi.ee/news/paevauudised/eesti/delfi-video-riigikogu-valges-saalis-toimus-digiteemaline-sumpoosion-kus-peaesinejateks-president-ilves-ja-teleporti-kaasasutaja?id=71884437) Eesti sõprade kohtumisel valitud seltskonnale üle maailma viisil, mis on mulle igaveseks meelde jäänud. Toona veel [e-Narnia](https://www.mkm.ee/sites/default/files/e-maine_presentatsioon_loplik.pdf) presidendina rääkis ta lõõpimisi nii kahefaktorilisest autentimisest kui biomeetriliste andmete kogumisest suutes ühes lauses mõnitada nii Euroopa Parlamenti kui selle poolt inimõiguste kaitsmise eest tunnustuse saanud [infoühiskonna vilepuhujat Edward Snowdenit](https://arvamus.postimees.ee/1297560/mart-poder-mis-teeb-vilepuhujaks).
 
@@ -68,17 +68,17 @@ Eesti infoühiskond on oma olemuselt vastuoluline nähtus. Väärtuste mõttes o
 
 Vajadus koloniaalriigina end ülejäänud Euroopale kasulikuks teha ja samas hirm, et keegi läheneb seljatagant ei anna just palju mahti mõtelda väärtustele. Meie infoühiskond on katsepolügon, mis on kokku klopsitud 1990ndatel Skandinaaviast annetuseks saadud vanast kolast ja kohalike häkkerite entusiasmist. Ei saa ütelda, et see ei oleks leidlik, sest meie IT-ekspertide leidlikkus sarnaneb tõepoolest Levi-Straussi kirjeldatud pärismaalaste formaliseerimata funktsionaalsele teadmisele taime- ja loomariigi kohta, mis annab kohati silmad ette teaduselegi. See on mõttelaad, mis innustab süsteemide lammutajaid ning uuesti tükkidest kokkupanijaid ning mulle kui poole kohaga pühapäevahäkkerile on keerulistele süsteemidele aukartuseta lähenemise kreedo äärmiselt sümpaatne.
 
-Kuigi sellel hoiakul põhineb meie infoühiskonna edulugu, ei vii see, mis tõi meid siia, meid edasi. Hõimuühiskonna unistus hüppavast võõramaa loomast on ammu oma sära kaotanud ja IT-ringkondadeski küsitakse järjest sagedamini meie saatuse kohta. Meil on vaja hakata aru saama, misasi on riik, demokraata ja põhimõtted, millel need rajanevad ning tuua need mõisted infoühiskonda.
+Kuigi sellel hoiakul põhineb meie infoühiskonna edulugu, ei vii see, mis tõi meid siia, meid edasi. Hõimuühiskonna unistus hüppavast võõramaa kaslasest on ammu oma sära kaotanud ja IT-ringkondadeski küsitakse järjest sagedamini meie saatuse kohta. Meil on vaja hakata aru saama, misasi on riik, demokraata ja põhimõtted, millel need rajanevad ning tuua need mõisted infoühiskonda.
 
 Meie taotus teha Ilvese kombel Euroopale selgeks, et nad võtaksid üle meie hõimuühiskonna väärtustel põhineva infoühiskonna kontseptsiooni pole mõeldav. Mida vähem me sellest endale aru anname, seda rumalamate pärismaalaste mulje jätame, kui püüame neid väärtusi maailmale tutvustada [liberaalse demokraatia sildi all](https://arvamus.postimees.ee/3669235/ahto-lobjakas-ilvese-e-panoptikum).
 
-Minu ja mu piraatidest mõttekaaslaste koostatud ning [roheliste programmi alla jooniv infoühiskonna peatükk](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-infouhiskond) plaanib esimesed sammud Eesti 1990ndate pärandi tõlkimiseks Euroopalike väärtuste raamistusse.
+Minu ja mu piraatidest mõttekaaslaste koostatud ning [roheliste programmi alla jooniv infoühiskonna peatükk](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-infouhiskond) plaanib esimesed sammud, et tõlkida jätkusuutlik osa Eesti 1990ndate pärandist Euroopalike väärtuste raamistusse.
 
 ## Eraelu talumatu puutumatus
 
 Üks liberaalse demokraatia baasväärtus, mille viljelemise pärast meie hõimupealikud on meid järjekindlalt hurjutanud, on soov olla iseseisev indiviid, demokraatliku ühiskonna mõtlev liige, kellel on oma puutumatud õigused ja tähenduslik roll ühiskonnas. Selle sümptomaatiline näide on põlgus eraelu puutumatuse suhtes, mis on olnud meie riiklikus retoorikas ja seadusloomes valdav... Ausal inimesel pole ometi midagi varjata? Eestlane ju usaldab oma riiki, usaldab ju, eks? Aga kas küsimus on üldse selles, mida mõni üksik inimene tunneb või arvab?
 
-Ma soovitan siinkohal teha lugemisse pausi ning mõtelda, mida see meie e-riigi jaoks tähendaks, kui järgnev kirjeldus polegi minu isiklik unenägu, vaid see, kuidas me huvitatud, informeeritud, aga neutraalsele vaatlejale väljastpoolt paistame.
+Ma soovitan siinkohal teha lugemisse pausi ning mõtelda, mida see meie e-riigi jaoks tähendab, kui järgnev kirjeldus polegi minu isiklik unenägu, vaid see, kuidas me huvitatud, informeeritud, aga neutraalsele vaatlejale väljastpoolt paistame.
 
 Alustuseks mõned taustafaktid:
 
@@ -102,7 +102,7 @@ Eraelu puutumatus on demokraatliku ühiskonna alusväärtus, sest ilma privaatsf
 
 Selsamal põhjusel on ka meie ajakirjandusväljaannete poolt avalikult halvustatav [anonüümsus ja pseudonüümsus vahel kõigile eluliselt vajalik](http://boamaod.github.io/blog/2016/02/16/neljas-v6im-kodus6jas/). Nende demokraatliku ühiskonna aluseks olevate kommunikatsioonimehhanismide mõnitamine ja katsed neid välja juurida annavad aimu meie rahvuslikus eneseteadvuses peituvatest kannatustest. Seda võiks püüda heatahtlikult mõista n-ö tavalise kodaniku puhul ja arvan, et seda peakski mõistma — kuid see ei tohiks olla lubatav meie poliitilistele eestkõnelejatele.
 
-Võib-olla võiks ülal esitatud loetelule joone alla tõmmata tähelepanekuga, et Eesti võttis vastu riigiaparaadi avatuse, andmeteaduse, masinõppe ja tehisintellekti jm toredate märksõnade jaoks tsentraalse tähtsusega avaandmete seadusemuudatused vastu Euroopas kõige viimasena ja sedagi alles siis, [kui Euroopa Liit oli alustanud rikkumismenetlust](https://www.riigikontroll.ee/Portals/0/RVKS_2013_AK_23_10_2014_LOPP_1.pdf). Ja mis veelgi enam — pärast muudatuste avaliku teabe seadusse kirjutamist unustati need aastateks.
+Võib-olla võiks ülal esitatud loetelule joone alla tõmmata tähelepanekuga, et Eesti võttis vastu riigiaparaadi avatuse, andmeteaduse, masinõppe ja tehisintellekti jm toredate märksõnade jaoks tsentraalse tähtsusega avaandmete seadusemuudatused Euroopas kõige viimasena ja sedagi alles siis, [kui Euroopa Liit oli alustanud rikkumismenetlust](https://www.riigikontroll.ee/Portals/0/RVKS_2013_AK_23_10_2014_LOPP_1.pdf). Ja mis veelgi enam — pärast muudatuste avaliku teabe seadusse kirjutamist unustati need aastateks.
 
 Asutasime mõttekaaslastega kahe aasta eest selle olulise puuduse leevendamiseks organisatsiooni [Open Knowledge Estonia](https://ee.okfn.org/et/oleme-avatud/) ning alles viimasel aastal on ses osas märgata valmisolekut muudatusteks. Kindlasti ei nõustu mu ülaloleva sõnavõtu tooniga kõik mu kolleegid sellest avatud teadmust kui infoühiskonna baasväärtust edendavast organisatsioonist, kuid ilmselt sisu osas on nad muga nõus. Miks ei oska me kasutada ära kõiki neid toredaid inimesi, kes kõik meil siin on, et astuda samm hõimuühiskonnast päris poole?
 
@@ -112,16 +112,20 @@ Eraelu puutumatuse ja andmete ligipääsetavuse läbimõeldud tasakaal on see, m
 
 ## Millal keegi sinuga viimati ilusti rääkis?
 
+{{< figure src="/images/were2.jpg" class="floatright" >}}
+
 Seejuures pole nii, et inimesed tegelikult nõustuks hõimupealike retoorikaga. Jah, inimesed väljendavad eraelu puutumatuse suhtes ükskõiksust, kui küsida neilt abstraktne küsimus, et kas neile on privaatsus oluline. Siiski näitab enne GDPRi vastuvõtmist tellitud [spetsiaalne eurobaromeetri uuring](http://ec.europa.eu/public_opinion/archives/ebs/ebs_431_en.pdf), et kuigi eestlased ilmselt suuresti aastatepikkuse propaganda mõjul on üldküsimuste suhtes võrdlemisi ükskõiksed, siis andmete käitamisega seotud konkreetsete küsimuste osas ei ole nad sugugi nii usaldavad.
 
-Me tea, kuidas arvutada kokku Ilvese algatatud [Suure Venna ja Väikse Õe muinasloo](https://www.postimees.ee/1290800/ilves-suure-venna-korval-tuleks-tahelepanu-poorata-vaiksele-oele) poolt tehtud kahju Eesti infoühiskonnale. Minu arvates on meie tärkava infoühiskonna eneseteadvuse suhtes kuritegu vihjata sellele, et riikliku hoolimatusest eraelu puutumatuse vastu ei tohiks rääkida ja et minge õiendage parem Facebooki või Google'iga. Jah, ka meediamonopolide seisusse tõusnud suletud platvormid on probleem, millega on oluline tegeleda, kuid selline riigi vastutuselt tähelepanu kõrvalejuhtimine ei ole mulle mõistetav — eriti kuna see pole juhuslikult pillatud märkus, vaid sihipärane kampaania.
+Me tea, kuidas arvutada kokku Ilvese algatatud [Suure Venna ja Väikse Õe muinasloo](https://www.postimees.ee/1290800/ilves-suure-venna-korval-tuleks-tahelepanu-poorata-vaiksele-oele) poolt tehtud kahju Eesti infoühiskonnale. Minu arvates on meie tärkava infoühiskonna eneseteadvuse suhtes kuritegu vihjata sellele, et riiklikust hoolimatusest eraelu puutumatuse vastu ei tohiks rääkida ja et minge õiendage parem Facebooki või Google'iga. Jah, ka meediamonopolide seisusse tõusnud suletud platvormid on probleem, millega on oluline tegeleda, kuid selline riigi vastutuselt tähelepanu kõrvalejuhtimine ei ole mulle mõistetav — eriti kuna see pole juhuslikult pillatud märkus, vaid sihipärane kampaania.
 
-Kuigi minu meelest on Internet tõepoolest [kallutatud ülemäära kasluse poole](https://www.muurileht.ee/kassipildituumaplahvatus/) ja koerus strukturaalselt alavääristatud, siiski ei taha ma selle tekstiga õhutada liikidevahelist vaenu. Mu soov rehabiliteerida koerus ning teha seda solidaarsusest kõigiga, kelle jaoks meie hõimuühiskonna avalik diskursus pole kuigi inspireeriv ning kes tahaks seda muuta.
+Kuigi minu meelest on Internet tõepoolest [kallutatud ülemäära kasluse poole](https://www.muurileht.ee/kassipildituumaplahvatus/) ja koerus strukturaalselt alavääristatud, siiski ei taha ma selle tekstiga õhutada liikidevahelist vaenu. Mu soov on natukegi rehabiliteerida koerust ning teha seda solidaarsusest kõigiga, kelle jaoks meie hõimuühiskonna avalik diskursus pole kuigi inspireeriv ning kes tahaks seda muuta.
 
 See väljendab tegelikult seda, miks tundus mulle ainuvõimalik kandideerimine Narvas ja Ida-Virumaal. Ma arvan, et kui keegi Eestis tunneb end meie avalikus debatis veel rohkem võõrkehana kui minusugune digiõiguste valvekoer, siis need on Ida-Virumaa elanikud. Ma pole siinkandis ülemäära palju käinud ja olen praeguseks Narvas elanud kõigest kolm nädalat, aga mäletan, et paari aasta eest siin [ühel häkatonil osaledes](https://www.generaadio.ee/arhiiv/olukorrast-konnatiigis-22-13-10-2016/) hakkas mulle enam-vähem teise asjana silma, et kolmandik kohalike noorte häkatoniprojektidest on seotud põlevkiviga. Põlevkivi on see, mis hoiab Ida-Virumaad elus kogu jõhkruse kiuste, mida Eesti riik siinsete inimeste vastu üles näitab.
 
 Seepärast pakun välja, et kogu Eestit hõlmav arenguhüpe pole mitte mõni uus infosüsteem või klanitud e-riigi edendusprojekt, aga ka mitte Ida-Virumaa tööstusest ja oskusteabest loobumine, vaid meil tuleks raiuda läbi Gordioni sõlm, mis seob hõimurahvast 1990ndate IT-edulooga ja idavirulasi 20nda sajandi teise poole põlevkivi-edulooga. See on samm, mis peab muutma meie suhtumist tehnoloogiasse ja väärtustesse. Vaba ja avatud infotaristu koos netikasutajatele tagatud õigustega on luksus, aga me väärime seda. Ka keskkonnasäästlik energiatööstus ja avatud energiataristu koos võrdselt pika oodatava elueaga kui ülejäänud Eestis on luksus, aga me väärime seda ka.
 
-Kümne aasta jooksul kolime me kõik niikuinii Narva, aga esialgu võiks püüda [siin korraldada avaandmete päeva](https://github.com/okestonia/esindus/issues/58). Sest — kas ma juba ei ütelnud, et [andmed on Ida-Virumaa uus põlevkivi](https://gafgaf.infoaed.ee/posts/uus-p6levkivi/)?
+Kümne aasta jooksul kolime me kõik niikuinii Narva, aga esialgu võiks püüda [siin korraldada avaandmete päeva](https://github.com/okestonia/esindus/issues/58). Sest — kas ma juba ei ütelnud, et [andmed on Ida-Virumaa uus põlevkivi](https://gafgaf.infoaed.ee/wiki/Andmed_on_uus_p%C3%B5levkivi)...
+
+["Mis tõi meid siia, ei vii meid enam edasi?"](https://gafgaf.infoaed.ee/posts/programm/)
 
 _Ma vist ei pea rohkem põhjendama, miks on mu valimislubadus, et ma end hea koerana ära kiibistan, kui saan Riigikokku pääsemiseks vajalikud hääled..._
